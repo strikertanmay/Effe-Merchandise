@@ -48,14 +48,14 @@ session_start();
             <span>Type A (Red)</span>
           </div>
           <div class="col-md-12" style="margin-top:1em; text-align:center;">
-            <img src="../images/6.jpg" class="img-responsive" style="height:30em;" id="myImg2">
+            <img src="../images/5.jpg" class="img-responsive" style="height:30em;" id="myImg2">
             <br>
             <span>Type B (Grey)</span>
           </div>
         </div>
         <div class="row me-row">
           <div class="col-md-12" style="margin-top:1em; text-align:center;">
-            <img src="../images/5.jpg" class="img-responsive" style="height:30em;" id="myImg">
+            <img src="../images/7.jpg" class="img-responsive" style="height:30em;" id="myImg">
             <br>
             <span>Type C (Black)</span>
           </div>
